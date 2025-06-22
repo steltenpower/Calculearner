@@ -71,3 +71,5 @@ Call it AI if you want
 
 note:
 - http://www.petercollingridge.co.uk/tutorials/svg/interactive/dragging/
+
+https://www.innerdrive.co.uk/blog/counting-principles-explained/
