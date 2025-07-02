@@ -1,5 +1,7 @@
 # Elementary School Gimmicks
 
+Beware there are many more (photo) files in this repo not shown in this README
+
 ## Digits in sticks
 Maybe it helps if the digit itself can be counted.<br>
 <img src="https://raw.githubusercontent.com/steltenpower/ElementarySchoolGimmicks/master/cijfers_in_streepjes.png">
