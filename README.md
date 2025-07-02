@@ -2,6 +2,8 @@
 
 Beware there are many more (photo) files in this repo not shown in this README
 
+I seem to have re-invented some of the principles of https://www.tudelft.nl/en/2025/library/the-calculator-as-an-extension-of-the-mind
+
 ## Digits in sticks
 Maybe it helps if the digit itself can be counted.<br>
 <img src="https://raw.githubusercontent.com/steltenpower/ElementarySchoolGimmicks/master/cijfers_in_streepjes.png">
