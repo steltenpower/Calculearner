@@ -59,6 +59,9 @@ A variation on this find: <img src="https://upload.wikimedia.org/wikipedia/commo
 - Necklace with beads that each have a number, starting with zero and from there add one every time (somebody must have made this, though the closest I got to finding it was this <a href="https://rhythmsofplay.com/alphabet-bead-necklace-craft-for-kids/"><img src="https://rhythmsofplay.com/wp-content/uploads/2017/09/Alphabet-bead-necklace-jewelry-for-kids-pin3-768x1153.jpg" width="20%"></a>
 Or the 5ct character on a cubic bead at De Museumfabriek
 
+### Montessori number blocks
+https://dannicowoodworks.com/products/montessori-wooden-number-blocks
+
 ### Egg boxes with labels to help with counting and carry-over
 Built them. Just waiting for some time to shoot the video.
 <img src="https://www.kippenhuis.nl/media/catalog/product/cache/281fc391ee768b098bde07622c97cee9/e/i/eierdoos-large-10-eieren-kippenhuis.jpg"/>
